@@ -1,0 +1,30 @@
+C:\Users\student1\Desktop\Personage\Personage\Personage\bin\Debug\Personage.exe.config
+C:\Users\student1\Desktop\Personage\Personage\Personage\bin\Debug\Personage.exe
+C:\Users\student1\Desktop\Personage\Personage\Personage\bin\Debug\Personage.pdb
+C:\Users\student1\Desktop\Personage\Personage\Personage\obj\Debug\Personage.csprojAssemblyReference.cache
+C:\Users\student1\Desktop\Personage\Personage\Personage\obj\Debug\Personage.Form1.resources
+C:\Users\student1\Desktop\Personage\Personage\Personage\obj\Debug\Personage.Properties.Resources.resources
+C:\Users\student1\Desktop\Personage\Personage\Personage\obj\Debug\Personage.csproj.GenerateResource.cache
+C:\Users\student1\Desktop\Personage\Personage\Personage\obj\Debug\Personage.csproj.CoreCompileInputs.cache
+C:\Users\student1\Desktop\Personage\Personage\Personage\obj\Debug\Personage.exe
+C:\Users\student1\Desktop\Personage\Personage\Personage\obj\Debug\Personage.pdb
+Z:\ИС-20-1 Егоров, Володин\Personage\Personage\Personage\bin\Debug\Personage.exe.config
+Z:\ИС-20-1 Егоров, Володин\Personage\Personage\Personage\bin\Debug\Personage.exe
+Z:\ИС-20-1 Егоров, Володин\Personage\Personage\Personage\bin\Debug\Personage.pdb
+Z:\ИС-20-1 Егоров, Володин\Personage\Personage\Personage\obj\Debug\Personage.csproj.AssemblyReference.cache
+Z:\ИС-20-1 Егоров, Володин\Personage\Personage\Personage\obj\Debug\Personage.Form1.resources
+Z:\ИС-20-1 Егоров, Володин\Personage\Personage\Personage\obj\Debug\Personage.Properties.Resources.resources
+Z:\ИС-20-1 Егоров, Володин\Personage\Personage\Personage\obj\Debug\Personage.csproj.GenerateResource.cache
+Z:\ИС-20-1 Егоров, Володин\Personage\Personage\Personage\obj\Debug\Personage.csproj.CoreCompileInputs.cache
+Z:\ИС-20-1 Егоров, Володин\Personage\Personage\Personage\obj\Debug\Personage.exe
+Z:\ИС-20-1 Егоров, Володин\Personage\Personage\Personage\obj\Debug\Personage.pdb
+Z:\ИС-20-1 Егоров, Володин\c# mdk01.01\Personage\Personage\Personage\bin\Debug\Personage.exe.config
+Z:\ИС-20-1 Егоров, Володин\c# mdk01.01\Personage\Personage\Personage\bin\Debug\Personage.exe
+Z:\ИС-20-1 Егоров, Володин\c# mdk01.01\Personage\Personage\Personage\bin\Debug\Personage.pdb
+Z:\ИС-20-1 Егоров, Володин\c# mdk01.01\Personage\Personage\Personage\obj\Debug\Personage.csproj.AssemblyReference.cache
+Z:\ИС-20-1 Егоров, Володин\c# mdk01.01\Personage\Personage\Personage\obj\Debug\Personage.Form1.resources
+Z:\ИС-20-1 Егоров, Володин\c# mdk01.01\Personage\Personage\Personage\obj\Debug\Personage.Properties.Resources.resources
+Z:\ИС-20-1 Егоров, Володин\c# mdk01.01\Personage\Personage\Personage\obj\Debug\Personage.csproj.GenerateResource.cache
+Z:\ИС-20-1 Егоров, Володин\c# mdk01.01\Personage\Personage\Personage\obj\Debug\Personage.csproj.CoreCompileInputs.cache
+Z:\ИС-20-1 Егоров, Володин\c# mdk01.01\Personage\Personage\Personage\obj\Debug\Personage.exe
+Z:\ИС-20-1 Егоров, Володин\c# mdk01.01\Personage\Personage\Personage\obj\Debug\Personage.pdb
